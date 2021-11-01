@@ -1,0 +1,62 @@
+body{ width: auto;
+    font-family:'Poppins',sans-serif; 
+
+}
+.kotak1{background-color:#e36414;
+ 
+    height: 2em;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+span{ padding: 20px;
+}
+#navi1{padding: 20px;
+    display: inline;
+
+}
+div:hover .hover1{color: #5f0f40;
+
+}
+.login{position: absolute;
+    left: 87%;
+    top: 2px;
+}
+.sign{ position: absolute;
+    top: 2px;
+    left: 92%;
+}
+div:hover.sign {color: #5f0f40;}
+.judul{ background-color: #fb8b24;
+    font-size: 2.5em;
+    padding-bottom:20px;
+    padding-top:20px ;
+    padding-left: 40%;
+   
+   
+}
+.kotak2{background-color: #0f4c5c;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+
+.satu{width: 48%;
+    margin: auto;
+    color: white;
+    margin-bottom: 80px;
+}
+.genre{font-size: 1.5em;}
+.back{width: 100px;
+    color: goldenrod;
+    border-radius: 50%;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    padding-left: 10px;
+     background-color:#5f0f40 ;
+     position: fixed;
+ bottom: 2%;
+ right:2%;
+ 
+
+
+}

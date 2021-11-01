@@ -1,0 +1,64 @@
+body{ background-image:url(background.jpg);
+    font-family: 'Mulish', sans-serif;
+    display:block;
+    padding: 20px;
+    
+
+}
+.judul{margin-left:40%; color:darkblue;
+    font-size: 2em;
+
+}
+.container{ margin:auto;
+    max-width:600px;
+    width: 100%;
+    height:fit-content;
+
+    padding: 30px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+.login{width: 50%;
+    height: 100%;
+    padding: 145px 30px 145px 50px;
+ 
+background-color:rgba(220, 221, 225,0.8) ;
+}
+.register{width: 50%;
+    height: 100%;
+  padding: 35px 30px 30px 50px;
+
+    background-color:rgba(200, 214, 229,0.8);
+}
+.title{color: black; font-style: italic; font-size: 1.3em; font-weight: bold; 
+    padding: 30px 50px;
+   
+}
+input{ background: none;
+    border: none;
+    border-bottom: 0.01px gray solid;
+    padding-bottom: 20px;
+}
+
+input[type=submit] {background-color: #2ed573;
+     border: solid 1px#2ed573;
+      border-radius: 25px; 
+      color: white;
+      padding: 10px 40px;
+      margin-left: 20%;
+}
+
+  .submit input[type="submit"]  {background-color: #38ada9; 
+     border-radius: 25px; 
+     color: white;
+     padding: 10px 40px;
+     margin-left: 20%;
+
+  }
+.sign input[type="submit"]:hover{background-color:transparent; border-color: #38ada9; color: #38ada9;}
+.submit input[type="submit"]:hover{background-color:transparent; border-color:#2ed573; color:#2ed573 ;}  
+
+
+     
+.a{margin-left: 20%;}

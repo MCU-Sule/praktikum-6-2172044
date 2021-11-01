@@ -1,0 +1,38 @@
+body{position: relative;
+
+}
+
+
+.container{border: 1px solid black; width: 95%;
+   position: absolute;
+  top: 15px;
+left: 40px;
+
+
+
+  padding-top: 20px;
+  padding-bottom: 20px;
+   
+}
+hr{ color: black;}
+span{padding-right: 45px; padding-left: 45px; 
+    border: 2px black solid;
+    border-bottom: 0ch;
+    border-top: 0ch;
+    border-left: 1px;
+
+}  
+.judul{ width: 50%;
+}
+
+img{width:160px;
+height: 100%;
+position: absolute;
+top:0px;
+right:0px;
+}
+.kotak {border: solid; width: 90%;
+    position:absolute; background-color: white;
+ top: 3%;
+  left: 0px
+} 
